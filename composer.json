@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2",
+    "name": "peesoft/yii2",
     "type": "library",
     "require": {
         "php": ">=5.4.0",
